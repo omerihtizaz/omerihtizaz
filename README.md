@@ -293,30 +293,27 @@ Welcome to my GitHub profile! Introductioon
 </details>
 
 
-- **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
-- **DevOps:** Docker, Docker-compose, Kubernetes, Github Actions, AWS, Linux, Git
-- **Protocols:** gRPC, RestAPI, Websockets, GraphQL, WebRTC
-- **Backend:** Golang, Gin Framework, Node.js, Express
-- **Frontend:** React.js, Redux, HTML, CSS, JavaScript, Bootstrap
-- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
-- **Other Skills:** Git, Agile Methodologies, Figma
+- **Languages:** Python, Pyspark, NodeJs, NestJs, C, C++, TypeScript
+- **Cloud and DevOps:** Azure Web Services, Google Cloud Services, Docker, Docker-compose, Kubernetes, AWS, Linux, Git
+- **Frameworks:** Pandas, Numpy, TensorFlow, PyTorch, OpenCV 
+- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, Firebase
 
         
 ## Professional Experience 💼
 
 <p align="left">
-  <a href="https://techscape.pk" target="_blank" >
+  <a href="https://www.confiz.com/" target="_blank" >
     <img
       src="https://shop.techscape.pk/wp-content/uploads/2023/03/TechScape-Color-logo.png"
-      alt="Techscape"
+      alt="ConFiz Ltd"
       height="80"
     />
   </a>
 
-  <a href="https://www.lumaseeds.com" target="_blank">
+  <a href="https://www.confiz.com/" target="_blank">
     <img
       src="https://s3-eu-west-1.amazonaws.com/tpd/logos/62b387f6789d489dfde554ea/0x0.png"
-      alt="Luma Seeds"
+      alt="ConFiz Ltd"
       style="width: 80px; height: 80px; object-fit: none; clip-path: inset(163px 163px 163px 163px);"
     />
   </a>
