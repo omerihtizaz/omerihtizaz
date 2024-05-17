@@ -1,4 +1,5 @@
-[![Api giphy OmerIhtizaz]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fais-transformative-impact-enhancing-customer-experience-singh&psig=AOvVaw3QUB5kBemR1uzOlgAYuq0o&ust=1716016868906000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMD2rpGTlIYDFQAAAAAdAAAAABAZ))](https://OmerIhtizaz.me)
+[![Api giphy OmerIhtizaz](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://OmerIhtizaz.me)
+
 
 <h1 align="center">Hello 👋, I'm Omer Ihtizaz</h1>
 
