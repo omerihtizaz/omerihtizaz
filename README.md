@@ -1,4 +1,4 @@
-[![Api giphy OmerIhtizaz](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://OmerIhtizaz.me)
+[![Api giphy OmerIhtizaz](https://github.com/omerihtizaz/omerihtizaz/blob/main/gif.gif)](https://OmerIhtizaz.me)
 
 
 <h1 align="center">Hello 👋, I'm Omer Ihtizaz</h1>
