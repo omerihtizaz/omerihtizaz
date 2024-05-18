@@ -108,8 +108,14 @@ As a Course Developer at 01schools, I streamlined the learning journey for stude
 
 ## Projects 
 
+<details>
+    <summary>
+        
 ### 90D Forecasting
 Mar 2023 - Sep 2023
+
+</summary>
+
 **Project Overview**
 This initiative revolves around a sophisticated 90-day data forecasting project. It encompasses a meticulously designed pipeline involving data ingestion, thorough preprocessing, and advanced modeling utilizing tools like Prophet, Sarimax, and others. This process is followed by a systematic model selection phase, rigorous validation checks, and a seamless transition to Google BigQuery and GCS.
 
@@ -128,7 +134,46 @@ This initiative revolves around a sophisticated 90-day data forecasting project.
 - Version Control (GitHub) Proficiency
 - Problem-Solving Skills and Critical Thinking
 
+</details>
 
+
+<details>
+
+<summary>
+    
+### Retailer System
+*Oct 2022 - Dec 2022*
+</summary>
+
+**Objective of the Project**
+This project endeavors to establish a secure Retailer System, offering a platform for retailers to showcase their wares. Users can register, peruse, and execute purchases. Rigorous administrative scrutiny ensures verification of retailers and products prior to user access.
+
+**Methodology**
+- Implemented JWT token-based authentication for stringent user validation, furnishing auth bearer tokens for authorized API entry.
+- Employed Google Cloud Platform (GCP) Buckets for dynamic queries and instantaneous data updates, facilitating real-time storage.
+- Managed structured data in GCP BigQuery SQL tables, enabling swift modifications.
+- Integrated Axios to streamline microservices operations, ensuring fluid communication between distinct components.
+Leverage of KafkaJs as a Pub/Sub system for handling real-time streaming data, demarcating Producers and Consumers.
+- Enabled users to select items, generate orders, and execute payments, ensuring seamless order progression.
+- Devised a secure registration process for users and retailers, subject to admin endorsement. Administrators assessed and either sanctioned or denied applications.
+- Enabled retailers to submit products for appraisal, stored in a relay table for admin evaluation. Admins approved or dismissed items based on pre-established criteria.
+- Integrated Prometheus for instantaneous metric recording, furnishing pivotal data for application scrutiny.
+- Dockerized the application and interfaced it with Prometheus and Grafana for heightened monitoring capabilities.
+
+**Skills:**
+- Holistic Development Prowess
+- Cloud Expertise (Google Cloud Platform)
+- Microservices Architecture
+- Message Broker Systems (KafkaJs)
+- Authentication and Authorization Mastery
+- Metrics and Monitoring (Prometheus, Grafana)
+- Containerization and Orchestration (Docker, Kubernetes)
+- Testing Proficiency (Jest, Postman)
+</details>
+
+#### More project details can be found at this [Here](https://www.linkedin.com/in/omer-ihtizaz/details/projects/)
+
+## [Licenses & certifications](https://www.linkedin.com/in/omer-ihtizaz/details/certifications/)
 ## Let's Connect 🤝
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
@@ -136,16 +181,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 <i>Broken link?</i>  <strong>Hover on the icons to see the username for each communication channel </strong>
 
 <p align="left">
-    <a href="https://wa.link/5x48ip" target="_blank"
-      ><img
-        title = "+92 3155567110"
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-        alt="OmerIhtizaz"
-        height="45"
-        width="60"
-    /></a>
-    <a href="https://linkedin.com/in/OmerIhtizaz" target="_blank"
+    <a href="https://www.linkedin.com/in/omer-ihtizaz" target="_blank"
       ><img
         title = "@OmerIhtizaz"
         align="center"
@@ -154,58 +190,20 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         height="45"
         width="60"
     /></a>
-  <a href="https://www.upwork.com/freelancers/OmerIhtizazamin10" target="_blank"
-      ><img
-        title = "@OmerIhtizazamin10"
-        align="center"
-        src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg"
-        alt="OmerIhtizaz"
-        height="45"
-        width="60"
-        /></a>
-   <a href="https://fiverr.com/OmerIhtizaz86" target="_blank"
+   <a href="https://www.fiverr.com/omerihtizaz759" target="_blank"
       ><img
         title = "@OmerIhtizaz86"
         align="center"
         src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*Xa26ULIpZTTP1hN_ReUXVQ.png"
-        alt="OmerIhtizaz"
+        alt="omerihtizaz759"
         height="45"
         /></a>
-    <a href="https://fb.com/OmerIhtizaz" target="_blank"
-      ><img
-        title = "@OmerIhtizaz"
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-        alt="OmerIhtizaz"
-        height="45"
-        width="60"
-    /></a>
-  <a href="https://discord.com/users/749376006946553987" target="_blank" 
-      ><img
-        title = "OmerIhtizaz#6835"
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/discord.svg"
-        alt="OmerIhtizaz"
-        height="55"
-        /></a>
-
+    
   
   </p>
 </p>
 
 
-
-<h3 align="center">Schedule a meeting?</h3>   
-<p align="center">
-  <a href="https://calendly.com/OmerIhtizaz/30min" target="_blank" align="center">
-      <img
-        title = "30 Min Meeting Schedule with me"
-        align="center"
-        src="https://www.insiteful.com.au/wp-content/uploads/2022/12/calendly-logo.webp"
-        alt="OmerIhtizaz"
-        height="45"
-    /></a>
-  </p>  
 
 Thank you for visiting my profile. Let's create something awesome together!! 🚀
 
