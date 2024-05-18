@@ -7,329 +7,127 @@
 
 
 Welcome to my GitHub profile! Introductioon
-
-## Technologies & Tools 🛠️
 <details>
-    <summary>
-
-#### Frontend
-
+    
+<summary>
+    
+#### Skills
 </summary>
-
-<p align="left">
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      height="80"
-    />
-  </a>
-  
-  <a href="https://github.com/redux/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
-      alt="redux"
-      height="80"
-      title="redux"
-    />
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      height="80"
-    />
-  </a>
-    <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      height="80"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      height="80"
-    />
-  </a>
-
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      height="80"
-    />
-  </a>
-</p>
-</details>
-<details open align="right">
-    <summary alifn>
-        
-#### Backend 
-</summary>
-
-<p align="right">
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
-      height="80"
-      title="golang"
-    />
-  </a>
-    <a href="https://gin-gonic.com/">
-    <img
-      src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
-      alt="gin gonic"
-      height="80"
-      title="gin-gonic"
-    />
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      height="80"
-    />
-  </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      height="80"
-    />
-  </a>
- <a
-    href="https://gorm.io/index.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://gorm.io/gorm.svg"
-      alt="gorm"
-      height="80"
-    />
-  </a>
-    </a>
-      <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      height="80"
-    />
-  </a>
-</p>
-
-</details>
-<details>
-    <summary>
-        
-#### Database
-</summary>
-
-<p align="left"> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      height="80"
-    />
-  </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      height="80"
-    />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      height="80"
-    />
-  </a>
-
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      height="80"
-    />
-
-</p>
-</details>
-
-<details open align="right">
-    <summary>
-        
-#### DevOps
-</summary>
-
-<p align="right">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png"
-      alt="docker"
-      height="80"
-      title="docker"
-    />
-  </a>
-  
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png"
-      alt="kubernetes"
-      height="80"
-      title="kubernetes"
-    />
-  </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png"
-      alt="Aws"
-      height="80"
-    />
-  </a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img
-      src="https://swimburger.net/media/ppnn3pcl/azure.png"
-      alt="kubernetes"
-      height="80"
-      title="kubernetes"
-    />
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      height="80"
-    />
-  </a>
-  <a href="https://github.com/features/actions">
-    <img
-      src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"
-      alt="github actions"
-      height="80"
-      title="gin-gonic"
-    />
-  </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      height="80"
-    />
-  </a>
-</p>
-</details>
-
-<details>
-    <summary>
-        
-#### Protocols
-</summary>
-  
-  
-<p align= "left">
-  <a
-    href="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg"
-      alt="grpc"
-      height="80"
-    />
-  </a><a
-    href="https://github.com/grpc/grpc-go"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4"
-      alt="grpc"
-      height="80"
-    />
-  </a>
- <a
-    href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGTj6IS3yV21x_xamyILfGsw=/websocket-2023-01-04%2000-00-00-2023-11-30%2009-25-41"
-      alt="Web Sockets"
-      height="80"
-    />
-  </a>
-<a
-    href="https://webrtc.org/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://blog.wildix.com/wp-content/uploads/2016/11/webrtc-logo-vert-retro-255x305-1.png"
-      alt="WebRTC"
-      height="80"
-    />
-  </a>
-</p>
-</details>
-
 
 - **Languages:** Python, Pyspark, NodeJs, NestJs, C, C++, TypeScript
 - **Cloud and DevOps:** Azure Web Services, Google Cloud Services, Docker, Docker-compose, Kubernetes, AWS, Linux, Git
 - **Frameworks:** Pandas, Numpy, TensorFlow, PyTorch, OpenCV 
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, Firebase
 
+</details>
         
 ## Professional Experience 💼
 
+<details>
+<summary>
+    
+#### **Confiz Ltd - 2022-Present**
 <p align="left">
-  <a href="https://www.confiz.com/" target="_blank" >
+ <a href="https://www.confiz.com/" target="_blank" >
     <img
       src="https://github.com/omerihtizaz/omerihtizaz/blob/main/img/Confiz.jpeg"
       alt="ConFiz Ltd"
       height="80"
     />
-  </a>
-
+  </a>  
   </p>
+</summary>
+
+
 Confiz Ltd's Bespoke Department specializes in crafting customized software solutions tailored to some of the biggest businesses in the global market. Being critical to revenue, features often need to be delivered under tight deadlines and involve multiple stakeholders:
-*Achieved *High Achiever* recognition award in the entire department
-*Developed and deployed an AI-enabled HR chatbot using RAG architecture, ChatGPT 3.5 and Azure services, enhancing employee access to HR information and reducing administrative burden.
-*Developed an interactive sales dashboard using Dash, Plotly, and Python to visualize historical, current, and forecasted data, enhancing key stakeholders' decision-making and productivity.
-*Spearheaded a project dedicated to reducing pipeline run time, applying traffic signals to well-performing models. Successfully slashed the pipeline time by an impressive 7 days, optimizing efficiency and enhancing overall workflow.
-*Led the development of a sophisticated 90-day data forecasting project, encompassing data ingestion, preprocessing, and initiated orchestration of advanced modeling utilizing tools like Prophet, Sarimax etc. • established a robust data pipeline with standardized configurations, meticulous validation protocols, and streamlined airflow integration, ensuring seamless data flow. This lead to enhanced forecasting accuracy by integrating diverse data sources and applying refined preprocessing techniques
-*Orchestrated the establishment of a secure Retailer System, implementing JWT token-based authentication for stringent user validation and employing Google Cloud Platform (GCP) tools for dynamic queries and real-time data updates. This enabled seamless order progression for users by integrating Axios and enabling retailers to submit products for appraisal 
-*Utilized KafkaJs as a Pub/Sub system for handling real-time streaming data, enabling smooth communication between distinct components. This helped improve application scrutiny and monitoring capabilities by Dockerizing the application and interfacing it with Prometheus and Grafana, providing instant metric recording and heightened monitoring capabilities. 
+
+- Achieved *High Achiever* recognition award in the entire department
+- Developed and deployed an AI-enabled HR chatbot using RAG architecture, ChatGPT 3.5 and Azure services, enhancing employee access to HR information and reducing administrative burden.
+- Developed an interactive sales dashboard using Dash, Plotly, and Python to visualize historical, current, and forecasted data, enhancing key stakeholders' decision-making and productivity.
+- Spearheaded a project dedicated to reducing pipeline run time, applying traffic signals to well-performing models. Successfully slashed the pipeline time by an impressive 7 days, optimizing efficiency and enhancing overall workflow.
+- Led the development of a sophisticated 90-day data forecasting project, encompassing data ingestion, preprocessing, and initiated orchestration of advanced modeling utilizing tools like Prophet, Sarimax etc. • established a robust data pipeline with standardized configurations, meticulous validation protocols, and streamlined airflow integration, ensuring seamless data flow. This lead to enhanced forecasting accuracy by integrating diverse data sources and applying refined preprocessing techniques.
+- Orchestrated the establishment of a secure Retailer System, implementing JWT token-based authentication for stringent user validation and employing Google Cloud Platform (GCP) tools for dynamic queries and real-time data updates. This enabled seamless order progression for users by integrating Axios and enabling retailers to submit products for appraisal
+- Utilized KafkaJs as a Pub/Sub system for handling real-time streaming data, enabling smooth communication between distinct components. This helped improve application scrutiny and monitoring capabilities by Dockerizing the application and interfacing it with Prometheus and Grafana, providing instant metric recording and heightened monitoring capabilities.
 
 
-## <span style="display: flex;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Go lang developer" height="17.9" /></span>ALS 🌱
+</details>
 
-My journey as a developer is constantly evolving, and here are some of my goals:
+<details>
 
-- Mastering automations, and assisting in optimization of development flows.
-- Being a valuable member in Golang and its ecosystem, with contributing to open source projects with innovative solutions.
-- Stay updated with the latest trends and advancements in the tech industry, exploring new frameworks and libraries.
-- Sharpening skills in design and crafting architectures that is scalable for web applications.
-- Collaborate with other developers in creating impactful and meaningful projects.
+<summary>
+    
+### Fiverr - 2020-2022
+
+
+<p align="left">
+ <a href="https://www.fiverr.com/users/omerihtizaz759/" target="_blank" >
+    <img
+      src="https://github.com/omerihtizaz/omerihtizaz/blob/main/img/Confiz.jpeg"
+      alt="Fiverr Profile"
+      height="80"
+    />
+  </a>  
+  </p>
+
+</summary>
+
+I have worked as a Machine Learning Engineer and Data Scientist on Fiverr, where I achieved the status of a Level 2 Seller. Over this period, I garnered more than 75 5.0-star reviews from satisfied clients. My accomplishments include designing advanced algorithms for contact tracing, exam scheduling, and credit scoring; developing a robust web application utilizing Flask, DynamoDB, and AWS services; and implementing genetic algorithms to optimize house designs based on various constraints and features.
+
+- designed algorithms for contact tracing, exam scheduling and credit scoring, effectively identifying close contacts based on spatial proximity and implementing automated exam allocation within defined time slots while adhering to constraints and to create an optimized credit scoring technique.
+- developed a web application utilizing Flask, DynamoDB, and AWS services for efficient management of artists, books, and subscriptions, enabling user registration, login, and seamless operations.
+- implemented genetic algorithms to optimize house designs, considering price thresholds, ensuring efficient selection of features for maximum fitness, including predicted house price, garage area, and lot area.
+
+    
+</details>
+
+
+<details>
+    <summary>
+        
+### 01Schools - 2020-2021
+
+<p align="left">
+ <a href="https://www.linkedin.com/company/01schools" target="_blank" >
+    <img
+      src="https://github.com/omerihtizaz/omerihtizaz/blob/main/img/Confiz.jpeg"
+      alt="01Schools"
+      height="80"
+    />
+  </a>  
+  </p>
+  
+</summary>
+
+As a Course Developer at 01schools, I streamlined the learning journey for students of varying proficiency levels in C++, fostering comprehensive skill development from foundational to advanced concepts.
+
+- streamlined learning experience for learners at varying proficiency levels, ensuring focused skill acquisition from beginner to expert levels.
+- fostered holistic skill development by covering foundational to advanced C++ concepts, enabling students to master diverse real-world programming scenarios.
+
+
+</details>
+
+## Projects 
+
+### 90D Forecasting
+Mar 2023 - Sep 2023
+**Project Overview**
+This initiative revolves around a sophisticated 90-day data forecasting project. It encompasses a meticulously designed pipeline involving data ingestion, thorough preprocessing, and advanced modeling utilizing tools like Prophet, Sarimax, and others. This process is followed by a systematic model selection phase, rigorous validation checks, and a seamless transition to Google BigQuery and GCS.
+
+**Methodology:**
+- *Establishing a Robust Data Pipeline:* The project gained momentum through the creation of a precisely scheduled data pipeline, featuring standardized configurations, meticulous validation protocols, and streamlined airflow integration.
+- *Integrating Diverse Data Sources:* Diverse input sources were seamlessly integrated and aligned, complemented by careful y-data profiling and enriched with refined preprocessing techniques, including logarithmic transformations.
+- *Executing Discerning Model Selection:* Leveraged a forecasting system library, a sophisticated tool, to scrutinize and select models based on the most suitable evaluation metrics for each category, ensuring optimal forecasting accuracy.
+- *Validating Data Integrity:* Implemented the Pandera library to enforce strict data contract rules, ensuring consistent schema structure and conducting comprehensive data validation.
+
+**Skills:**
+- Data Engineering Proficiency
+- Python Programming Proficiency
+- Competency in PySpark Modeling
+- Data Validation Expertise
+- Google Cloud Platform Proficiency
+- Version Control (GitHub) Proficiency
+- Problem-Solving Skills and Critical Thinking
+
 
 ## Let's Connect 🤝
 
