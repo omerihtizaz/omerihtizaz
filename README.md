@@ -62,7 +62,7 @@ Confiz Ltd's Bespoke Department specializes in crafting customized software solu
 <p align="left">
  <a href="https://www.fiverr.com/users/omerihtizaz759/" target="_blank" >
     <img
-      src="https://github.com/omerihtizaz/omerihtizaz/blob/main/img/Confiz.jpeg"
+      src="https://github.com/omerihtizaz/omerihtizaz/blob/main/img/fiverr.png"
       alt="Fiverr Profile"
       height="80"
     />
@@ -89,7 +89,7 @@ I have worked as a Machine Learning Engineer and Data Scientist on Fiverr, where
 <p align="left">
  <a href="https://www.linkedin.com/company/01schools" target="_blank" >
     <img
-      src="https://github.com/omerihtizaz/omerihtizaz/blob/main/img/Confiz.jpeg"
+      src="https://github.com/omerihtizaz/omerihtizaz/blob/main/img/01schools.png"
       alt="01Schools"
       height="80"
     />
