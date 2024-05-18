@@ -304,44 +304,22 @@ Welcome to my GitHub profile! Introductioon
 <p align="left">
   <a href="https://www.confiz.com/" target="_blank" >
     <img
-      src="https://shop.techscape.pk/wp-content/uploads/2023/03/TechScape-Color-logo.png"
+      src="https://github.com/omerihtizaz/omerihtizaz/blob/main/img/Confiz.jpeg"
       alt="ConFiz Ltd"
       height="80"
     />
   </a>
 
-  <a href="https://www.confiz.com/" target="_blank">
-    <img
-      src="https://s3-eu-west-1.amazonaws.com/tpd/logos/62b387f6789d489dfde554ea/0x0.png"
-      alt="ConFiz Ltd"
-      style="width: 80px; height: 80px; object-fit: none; clip-path: inset(163px 163px 163px 163px);"
-    />
-  </a>
-
-
-  <a href="https://proailab.com" target="_blank" >
-    <img
-      src="https://proailab.com/wp-content/uploads/2023/02/proailab-light-e1677569914511.png"
-      alt="Luma Seeds"
-      height="80"
-    />
-  </a>
-  
-  <a href="https://proailab.com" target="_blank" >
-    <img
-      src="https://avatars.githubusercontent.com/u/112457542?s=200&v=4"
-      alt="Kluff"
-      height="80"
-    />
-  </a>
   </p>
-I have gained valuable experience working on various projects, and here are a few highlights:
+Confiz Ltd's Bespoke Department specializes in crafting customized software solutions tailored to some of the biggest businesses in the global market. Being critical to revenue, features often need to be delivered under tight deadlines and involve multiple stakeholders:
+*Achieved *High Achiever* recognition award in the entire department
+*Developed and deployed an AI-enabled HR chatbot using RAG architecture, ChatGPT 3.5 and Azure services, enhancing employee access to HR information and reducing administrative burden.
+*Developed an interactive sales dashboard using Dash, Plotly, and Python to visualize historical, current, and forecasted data, enhancing key stakeholders' decision-making and productivity.
+*Spearheaded a project dedicated to reducing pipeline run time, applying traffic signals to well-performing models. Successfully slashed the pipeline time by an impressive 7 days, optimizing efficiency and enhancing overall workflow.
+*Led the development of a sophisticated 90-day data forecasting project, encompassing data ingestion, preprocessing, and initiated orchestration of advanced modeling utilizing tools like Prophet, Sarimax etc. • established a robust data pipeline with standardized configurations, meticulous validation protocols, and streamlined airflow integration, ensuring seamless data flow. This lead to enhanced forecasting accuracy by integrating diverse data sources and applying refined preprocessing techniques
+*Orchestrated the establishment of a secure Retailer System, implementing JWT token-based authentication for stringent user validation and employing Google Cloud Platform (GCP) tools for dynamic queries and real-time data updates. This enabled seamless order progression for users by integrating Axios and enabling retailers to submit products for appraisal 
+*Utilized KafkaJs as a Pub/Sub system for handling real-time streaming data, enabling smooth communication between distinct components. This helped improve application scrutiny and monitoring capabilities by Dockerizing the application and interfacing it with Prometheus and Grafana, providing instant metric recording and heightened monitoring capabilities. 
 
-- Developed backend systems using Golang and Node.js.
-- Collaborations with cross-functional teams in build top-notch web applications.
-- Proficiency in coding with Golang, Jsx, Python, and TypeScript which has brought versatility in my development skills.
-- Implementation of efficient algorithms and data structures in optimizations for performance and better user experiences.
-- Building interactive bots for Discord and Slack
 
 ## <span style="display: flex;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Go lang developer" height="17.9" /></span>ALS 🌱
 
